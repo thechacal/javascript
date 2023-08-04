@@ -1,1 +1,3 @@
-# javascript
+# Javascript
+
+Some codes in Javascript
