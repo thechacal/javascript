@@ -1,6 +1,4 @@
 /*Usandondo conceitos assíncronos e Promises para realizar operações concorrentes ( threads ). 
-Aqui está uma adaptação simplificada do código Java para JavaScript, considerando o ambiente
-assíncrono do Node.js
 
 Lembre-se de que esta adaptação usa o módulo fs para simular operações de I/O de arquivo e o 
 http para simular conexões de rede. A implementação de TcpConnect.connect e outras partes específicas 
